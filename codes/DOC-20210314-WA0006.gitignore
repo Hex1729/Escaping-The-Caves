@@ -1,0 +1,5 @@
+bin/
+text/
+scripts/get_outputs.sh
+*.log
+scripts/get_freq_outputs.sh
